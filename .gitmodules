@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Kava-45/Kava-45.github.io.git
+	branch = main

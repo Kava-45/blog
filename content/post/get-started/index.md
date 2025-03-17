@@ -22,11 +22,11 @@ Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+## Новости недели 
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+1. Понедельник начался с того что я проспал пару, так как сидел до 3 часов ночи делая ER-диаграмму для интернет-магазина. ChatGPT сгенерировал SQL-запросы, но половина не работала,пришлось исправлять.
+2. Четверг  начался день с того что,я дописывал телеграмм-бота для учета расходов (домашка по Python)
+3. Суббота была полноценным выходным целый день гулял и отдыхал так как неделька вышла трудной и надо было набраться сил на следующую неделю
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 

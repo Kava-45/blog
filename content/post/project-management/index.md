@@ -1,7 +1,7 @@
 ---
 title: ✅ Новость недели 
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2025-03-18
+summary: 03.17 по 03.23
+date: 2025-03-17
 authors:
   - admin
 tags:

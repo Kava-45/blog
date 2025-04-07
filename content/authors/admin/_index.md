@@ -92,39 +92,39 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: code-bracket
-      - name: Data Science
+      - name: Math
         description: ''
-        percent: 100
+        percent: 86
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Android
         description: ''
-        percent: 60
+        percent: 50
         icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Youtube
         description: ''
-        percent: 80
+        percent: 90
         icon: camera
 
 languages:
-  - name: English
+  - name: Russian
     percent: 100
+  - name: English
+    percent: 50
   - name: Chinese
-    percent: 75
-  - name: Portuguese
     percent: 25
 
 # Awards.

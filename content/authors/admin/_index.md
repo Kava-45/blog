@@ -30,22 +30,23 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your assets/media/icons/ folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands//elibrary
+    url: https://elibrary.ru/
+  - icon: brands//google-scholar
+    url: https://scholar.google.com/
+  - icon: brands/orcid
+    url: https://orcid.org/;
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/?interaction_required=true
+  - icon: brands//researchgate
+    url: https://www.researchgate.net/
+  - icon: brands//academia
+    url: https://www.academia.edu/
+  - icon: brands//arxiv
+    url: https://arxiv.org/
+    
   - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
 interests:
   - Программирование
   - Кибербезопасность 
@@ -142,7 +143,7 @@ awards:
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    date: '2024-07-15'
     awarder: edX
     icon: edx
     summary: |

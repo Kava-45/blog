@@ -1,7 +1,7 @@
 ---
 title: Новости недели
 summary: 31.04 по 06.04
-date: 2023-10-26
+date: 2025-03-01
 authors:
   - admin
 tags:
